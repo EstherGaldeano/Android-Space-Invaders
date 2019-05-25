@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cep\Desktop\SpaceInvaders 0306\SpaceInvaders\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b281bedf941d4a1e7207af1074bbfa0446dd59aa">
+        <dex dex="C:\Users\cep\Desktop\SpaceInvaders 0306\SpaceInvaders\android\build\intermediates\pre-dexed\debug\core-1.0_f5f6e5b9b2c50f9c2d0f06246a2c94d25852a4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cep\.gradle\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e12fe1fda814bd348c1579329c86943d2cd3c6a6">
+        <dex dex="C:\Users\cep\Desktop\SpaceInvaders 0306\SpaceInvaders\android\build\intermediates\pre-dexed\debug\jutils-1.0.0_0fa4c3a2abd23b6f9726b039b5ef26d329a358ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cep\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="39c7796b469a600f72380316f6b1f11db6c2c7c4">
+        <dex dex="C:\Users\cep\Desktop\SpaceInvaders 0306\SpaceInvaders\android\build\intermediates\pre-dexed\debug\jinput-2.0.5_2975ccd26cca9004fef21f52e4e6eda29a7c1ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cep\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Users\cep\Desktop\SpaceInvaders 0306\SpaceInvaders\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.6_738b2a645e0405972a54d6d11a7f852b1cf1a0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cep\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\cep\Desktop\SpaceInvaders 0306\SpaceInvaders\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_185257be9416d6772f0b19f0ec93251d64a4ce4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cep\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl\2.9.2\a9d80fe5935c7a9149f6584d9777cfd471f65489\lwjgl-2.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9d80fe5935c7a9149f6584d9777cfd471f65489">
+        <dex dex="C:\Users\cep\Desktop\SpaceInvaders 0306\SpaceInvaders\android\build\intermediates\pre-dexed\debug\lwjgl-2.9.2_dfa7f3e9d62451d8595a54b942082023e8248c3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cep\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\cep\Desktop\SpaceInvaders 0306\SpaceInvaders\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_f2ec7170d521d16436853ff4529e55f5678a49d8.jar" />
+    </item>
+
+</items>
